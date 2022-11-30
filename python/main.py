@@ -2,7 +2,7 @@ import pandas as p
 from matplotlib import pyplot as plt
 
 #todo vaccination data
-main_df = p.read_csv("data/vaccination_data.csv")
+main_df = p.read_csv("../data/vaccination_data.csv")
 print(main_df)
 # main_df=main_df[main_df[]]
 
